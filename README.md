@@ -21,5 +21,6 @@ I couldn't choose a favorite food, but this one is definetly up there. I **reall
 ### Favorite Quotes
 > "There is grace in being willing to know and hear others."
 >> *Michelle Obama*
+
 > "The universe is under no obligation to make sense to you."
 >> *Neil deGrasse Tyson
