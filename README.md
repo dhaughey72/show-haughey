@@ -24,3 +24,20 @@ I couldn't choose a favorite food, but this one is definetly up there. I **reall
 
 > "The universe is under no obligation to make sense to you."
 >> *Neil deGrasse Tyson*
+
+---
+### Code
+This snip of code is allowing determined controls to move a character in a game accordingly.
+```
+func _process(delta: float) -> void:
+	var velocity = Vector2.ZERO
+	if Input.is_action_pressed("move_right"):
+		velocity.x += 1
+	if Input.is_action_pressed("move_left"):
+		velocity.x -= 1
+	if Input.is_action_pressed("move_down"):
+		velocity.y += 1
+	if Input.is_action_pressed("move_up"):
+		velocity.y -= 1
+```
+[game code](github.com)
