@@ -8,3 +8,8 @@ I couldn't choose a favorite food, but this one is definetly up there. I **reall
 2. Hyvee
     1. Buying the ingredients and making it myself
 3. My mom's house
+
+### Side dishes
+* rice
+* beans
+* corn
